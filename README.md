@@ -41,10 +41,10 @@
 <p style="font-size:10px; color:gray;">SEIZEE 除了發音類似「惜食」，也希望取用「seize」的意思，表達把握、珍惜的初衷，以簡單好念好記的方式有效率地傳達我們網站的主要核心—珍惜食物。</p>
 <img alt="seizee forum" src="https://images.cakeresume.com/post-images/545d9122-b918-4cff-bc55-80a50749abc3.jpeg"/>
 <img alt="seizee forumPost" src="https://images.cakeresume.com/post-images/da857aac-f433-4567-88f6-ccb66f4b9d37.jpeg"/>
-<div algin="center" style="display: flex; justify-content:Space-between;">
+<!-- <div algin="center" style="display: flex; justify-content:Space-between;">
 <img width="48%" alt="seizee forum RWD1" src="https://images.cakeresume.com/post-images/3612490b-223a-4d18-aafe-cb476bdfd7b3.png"/>
 <img width="48%" alt="seizee forum RWD2" src="https://images.cakeresume.com/post-images/31827c3b-2cc8-4542-b510-8dbbcdc1fd6e.png"/>
-</div>
+</div> -->
 </br>
 
 - 功能
@@ -55,6 +55,7 @@
   <li>發表貼文</li>
   <li>收藏文章</li>
   <li>搜尋食譜</li>
+  <li>RWD</li>
   </ul>
   </br>
 
@@ -65,13 +66,13 @@
   </br>
 
 - [雞蛋糕網頁切版練習](https://www.cakeresume.com/portfolios/656928)
-<img height="15" width="15" src="https://cdn.simpleicons.org/GitHub" /> [GitHub](https://shenpei0617.github.io/HTML-CSS-pancake/pancake.html)
-<img alt="pancake" src="https://images.cakeresume.com/post-images/b0f86a26-654c-4593-ad24-5409e1a97094.png"/>
-<div algin="center" style="display: flex; justify-content:Space-between">
-<img width="48%" alt="pancake RWD1" src="https://images.cakeresume.com/post-images/2939d032-f12c-4680-82bb-2de05f48d2d9.jpeg"/>
-<img width="48%" alt="pancake RWD2" src="https://images.cakeresume.com/post-images/30e42e4b-a1f9-4d7c-9fce-5aef38d6cbc6.jpeg"/>
-</div>
-</br>
+  <img height="15" width="15" src="https://cdn.simpleicons.org/GitHub" /> [GitHub](https://shenpei0617.github.io/HTML-CSS-pancake/pancake.html)
+  <img alt="pancake" src="https://images.cakeresume.com/post-images/b0f86a26-654c-4593-ad24-5409e1a97094.png"/>
+  <!-- <div algin="center" style="display: flex; justify-content:Space-between">
+  <img width="48%" alt="pancake RWD1" src="https://images.cakeresume.com/post-images/2939d032-f12c-4680-82bb-2de05f48d2d9.jpeg"/>
+  <img width="48%" alt="pancake RWD2" src="https://images.cakeresume.com/post-images/30e42e4b-a1f9-4d7c-9fce-5aef38d6cbc6.jpeg"/>
+  </div> -->
+  </br>
 
 <h3 align="center">🏆 My Github Trophy:</h3>
 <p align="center">
